@@ -1,7 +1,7 @@
 id = "hunters"
-name = "Hunters"
+name = "Hunters Themes"
 version = "0.0.1"
 schema_version = 1
 authors = ["sheep"]
-description = "Hunters - Colección de temas personales"
-repository = "https://github.com/your-name/my-zed-extension"
+description = "Hunters - Colección de temas Hunters para el editor Zed"
+repository = "https://github.com/SpicyDogWings/Hunters_ZedEditor"
